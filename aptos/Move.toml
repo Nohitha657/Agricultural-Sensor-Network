@@ -1,0 +1,16 @@
+[package]
+name = "nohitha"
+version = "1.0.1"
+authors = ["Z-Wave"]
+
+[addresses]
+agro_sensor="0x7f829b8586dc2f3694a5d12a9f22fde9b4ffd7badd6aaa32051f940e665b0858"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
