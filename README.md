@@ -1,6 +1,6 @@
 # Agricultural Sensor Network Development
 
-## Domain
+
 **The Internet of Things (IoT)**
 
 ## Problem Statement
