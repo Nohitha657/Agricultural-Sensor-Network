@@ -1,3 +1,5 @@
+
+
 # Agricultural Sensor Network Development
 
 
@@ -66,3 +68,4 @@ The main goal is to automate the collection and recording of critical agricultur
 - **Supply Chain Transparency**: Builds trust between farmers, buyers, and consumers
 - **Regulatory Compliance**: Simplifies inspections and certifications
 
+![WhatsApp Image 2025-04-13 at 21 42 15_39494680](https://github.com/user-attachments/assets/0a9c0d01-d605-477f-8809-bfcc5c69b36f)
